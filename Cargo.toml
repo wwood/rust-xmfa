@@ -1,5 +1,5 @@
 [package]
-name = "bio-xmfa"
+name = "rust-xmfa"
 version = "0.1.0"
 authors = ["Ben J Woodcroft <donttrustben@gmail.com>"]
 edition = "2018"
